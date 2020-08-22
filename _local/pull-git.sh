@@ -1,1 +1,1 @@
-git pull https://github.com/jinglescode/VVV.git master
+git pull https://github.com/jinglescode/devotions.git master

@@ -1,3 +1,3 @@
 git add -A
-git commit -m "Git"
-git push https://github.com/jinglescode/VVV.git master
+git commit -m "commit"
+git push https://github.com/jinglescode/devotions.git master
