@@ -3,7 +3,10 @@ name: 'Devotions'
 description: 'My quiet time and bible study notes.'
 logo: ''
 favicon: 'assets/images/favicon.png'
-baseurl: '/devotions'
+
+github-url: 'https://jinglescode.github.io/devotions'
+baseurl: '/'
+
 disqus: ''
 email: 'jinglescode@gmail.com'
 mailchimp-list: ''
