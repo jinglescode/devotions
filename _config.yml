@@ -36,7 +36,7 @@ defaults:
       path: "/docs/*"
     values:
       sitemap: false
-        
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
