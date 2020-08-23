@@ -3,16 +3,13 @@ name: 'Devotions'
 description: 'My quiet time and bible study notes.'
 logo: ''
 favicon: 'assets/images/favicon.png'
-
-github-url: 'https://jinglescode.github.io/devotions'
-baseurl: '/'
-
+baseurl: '/devotions'
 disqus: ''
 email: 'jinglescode@gmail.com'
 mailchimp-list: ''
 
 include: ["_pages"]
-permalink: /:title/
+permalink: /:title
 
 # Plugins
 plugins: 
@@ -39,9 +36,7 @@ defaults:
       path: "/docs/*"
     values:
       sitemap: false
-  
-permalink: pretty
-      
+        
 # Syntax
 markdown: kramdown
 highlighter: rouge
