@@ -2,7 +2,7 @@
 title: "In the beginning God created the heavens and the earth"
 kicker: "BSF Genesis Lesson 1 Day 1"
 categories: [genesis]
-image: assets/images/creation-47473_640.png
+image: assets/images/sunrise-1756274_640.jpg
 focus-verse: "The heavens declare the glory of God; the skies proclaim the work of His hands. – Psalm 19:1"
 ---
 
