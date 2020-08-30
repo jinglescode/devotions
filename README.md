@@ -10,4 +10,4 @@ BSF materials belongs to [Bible Study Fellowship](https://www.bsfinternational.o
 
 ## Theme
 
-Theme designed and developed by [Sal](https://www.wowthemes.net).
+Theme designed and developed by [Sal @ Wow Themes](https://www.wowthemes.net/mundana-jekyll-theme/).
