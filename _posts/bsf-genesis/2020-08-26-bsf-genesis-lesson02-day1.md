@@ -8,13 +8,13 @@ focus-verse: "In the beginning God created the heavens and the earth. – Genesi
 
 > The heavens declare the glory of God; the skies proclaim the work of His hands. – Psalm 19:1
 
-# God Created
+# God Created – Genesis 1:1-2
 God made everything, the universe, the Earth, you and me, that means we are accountable to Him. John 1:3 affirms, `Through Him all things were made; without Him nothing was made that has been made.`
 
-# God Formed
+# God Formed – Genesis 1:3-13
 From day 1 to 3, God created and separated three elements; light from the darkness, sky from the surface, and land from the water. We worship the God who created light and who Himself is light. From 1 John 1:5, `God is light; in Him there is no darkness at all.` We worship the God who stands above us and apart from us but calls us to know Him. We worship the God whose beauty and majesty are inexhaustible. 
 
-# God Filled
+# God Filled – Genesis 1:14-25
 From day 4 to 6, God created and filled the Earth; Sun and moon, seasons and time, all kinds of creatures in the sky, water, and land. `Great is Thy Faithfulness" magnifies God's faithfulness and is seen through creation, from each sunrise and from each season to season. We worship a God whose plans and provisions order our lives with loving precision. We worship God, who is the giver of life. We worship the God of creation.
 
 # And God saw that it was good.
