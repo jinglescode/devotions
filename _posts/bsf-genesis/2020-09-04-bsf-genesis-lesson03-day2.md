@@ -26,9 +26,7 @@ Satan is crafty. Take opportunity (the right time and target the vulnerable pers
 Not knowing God's command will cause us not to be sure of God's word and character. That caused doubts.
 
 **What have you learned about temptation?** 
-This is why we are called never to give place to the devil (Ephesians 4:27). No discussion, no giving a chance. Satan will effectively influence us when he has established a foothold. 
-
-Satan talked with her when she was alone; we will fall for many temptations when being alone.
+This is why we are called never to give place to the devil (Ephesians 4:27). No discussion, no giving a chance. Satan will effectively influence us when he has established a foothold. Satan talked with her when she was alone; we will fall for many temptations when being alone.
 
 **What temptations do you currently face?** 
 Uncertainty about the future caused me to plan more rather than depending on God. Worry about money, thus want to earn more, and greed.
