@@ -57,7 +57,7 @@ Humans will return to dust. But even before their physical death, we experienced
 # Questions
 
 **How did life change for Adam and Eve because of their disobedience?** Women would experience pain when giving birth and in the upbringing of children. Work has increased pain and weariness, where thorns and thistles will come. Sin has entered the world, everyone is condemned by sin, and death came to everyone.
- 
-**What promise did God make? What is the significance of this promise?** There is a Messiah coming, Jesus, who will deliver us from sin, and destroy satan. 
+
+**What promise did God make? What is the significance of this promise?** There is a Messiah coming, Jesus, who will deliver us from sin, and destroy satan. God has a redemption plan even in the midst of sin, a redemption plan to restore this separation. God has plans for entire human race, right in the beginning; he can surely do great things in our lives, desipte how much we might have screwed up.
 
 **How do people currently experience the realities of the judgment and promise given to Adam and Eve?** In the current world, the amount of mess occurring daily, shows how much sin and destruction is happening.

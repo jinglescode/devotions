@@ -21,4 +21,4 @@ Unfortunately, God had to drive them out from the perfect garden, to keep them o
 
 **What actions did God take and why?** God began his first work of redemption, by clothing them with a sacrifice. God also banished them from the garden of Eden, so they cannot live forever in sin.
 
-**What do you learn about God?** God's love is shown through these redemptive activities despite human disobedience and fallen nature.
+**What do you learn about God?** God is love and just. God is holy, and we are sinful; there must have separation. But God's love is shown through these redemptive activities despite human disobedience and fallen nature. God fixing clothes for them, and even sending Jesus to die on the cross to redeem undeserving people.

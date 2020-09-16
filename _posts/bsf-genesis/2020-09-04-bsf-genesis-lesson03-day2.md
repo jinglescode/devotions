@@ -20,10 +20,10 @@ Maybe Adam did not do a good job communicating God's command, so what Eve said w
 Eve added, `and you must not touch it,` which is not part of the original command. 
 
 **The serpent is identified with Satan. What characteristics does he display in these verses?** 
-Satan is crafty. Take opportunity (the right time and target the vulnerable person). Know God's command and twisted it subtlety that seems innocent.
+Satan is crafty, taking the best opportunity, at the right time and target a vulnerable person. Know God's command and twisted it subtlety that seems innocent.
 
 **How do temptations cause people to question God's character? What role do our desires play in temptation?**
-Not knowing God's command will cause us not to be sure of God's word and character. That caused doubts.
+Not knowing God's command will cause us not to be sure of God's word and character. That caused us to doubt God during temptations.
 
 **What have you learned about temptation?** 
 This is why we are called never to give place to the devil (Ephesians 4:27). No discussion, no giving a chance. Satan will effectively influence us when he has established a foothold. Satan talked with her when she was alone; we will fall for many temptations when being alone.

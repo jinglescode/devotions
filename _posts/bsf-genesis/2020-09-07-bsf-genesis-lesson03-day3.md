@@ -24,6 +24,6 @@ Eve ate the fruit and gave it to Adam, and he ate it too. Adam's sin is no less 
 
 **How did Adam and Eve rationalize or justify their sin?** They blame on others for leading them to sin.
 
-**What immediate effects occurred for Adam and Eve personally and in their relationship with God? What died?** They realized that they are naked and was afraid. They have disobeyed God's instructions, `but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die`.
+**What immediate effects occurred for Adam and Eve personally and in their relationship with God? What died?** They realized that they are naked and was afraid. They have disobeyed God's instructions, `but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will certainly die`. Between Adam and Eve, the perfect relationship between husbands and wives died, there are conflicts between husbands and wives. Between man and God, it created a distance as there are sin in mankind.
 
 **What stands out to you about God's response?** God had a conversation with them, and asked them what has happened.
