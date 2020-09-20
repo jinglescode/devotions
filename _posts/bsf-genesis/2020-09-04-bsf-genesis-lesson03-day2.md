@@ -12,7 +12,7 @@ focus-verse: "So the LORD God said to the serpent, ‘Because you have done this
 
 Satan, appearing as a serpent, is crafty; humans alone can't outsmart Satan. Satan draws them to sin and tries to make Eve confused about what God said and doubt what God said. Satan starts by asking questions that seemed innocent.
 
-Maybe Adam did not do a good job communicating God's command, so what Eve said wasn't 100% accurate (added `and you must not touch it`). Satan tried to lie to Eve about God's goodness by saying that God kept knowledge from her.
+Maybe Adam did not do a good job communicating God's command, so what Eve said wasn't 100% accurate (added, `and you must not touch it`). Satan tried to lie to Eve about God's goodness by saying that God kept knowledge from her.
 
 # Questions 
 

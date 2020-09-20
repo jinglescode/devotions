@@ -11,9 +11,9 @@ focus-verse: "So the LORD God said to the serpent, ‘Because you have done this
 
 Now the woman was given a name, Eve, the mother of all living; because we can link this to verse 15 where the offspring of hers will crush the satan. Before she was called Eve, she was "woman", because, in chapter 2, Adam called her "woman".
 
-God made garments of skins for them, this is significant in three ways. First, this is the first redemptive step done by God, which we can link it to how we are clothed by the righteousness of Christ. Second, a life was sacrificed to make these clothes, also, we can link it to Christ's sacrifice. And third, God dressed them, a mark of acceptance similar to how the father clothe the prodigal son with a new robe when he returned home.
+God made garments of skins for them; this is significant in three ways. First, this is the first redemptive step done by God, which we can link to how Christ's righteousness clothes us. Second, a life was sacrificed to make these clothes. Also, we can link it to Christ's sacrifice. And third, God dressed them, a mark of acceptance similar to how the father clothed the prodigal son with a new robe when he returned home.
 
-Unfortunately, God had to drive them out from the perfect garden, to keep them out from the tree of life, preventing them from living forever in sin. The physical approach to eternal life has been completely cut off, the only way is through Jesus.
+Unfortunately, God had to drive them out from the perfect garden to keep them out from the tree of life, preventing them from living forever in sin. The physical approach to eternal life has been completely cut off. The only way is through Jesus.
 
 > Jesus answered, “I am the way and the truth and the life. No one comes to the Father except through me. - John 14:6
 
