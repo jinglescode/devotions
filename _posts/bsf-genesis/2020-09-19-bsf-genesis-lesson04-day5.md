@@ -7,7 +7,7 @@ focus-verse: "“If you do what is right, will you not be accepted? But if you d
 ---
 
 > Cain made love to his wife, and she became pregnant and gave birth to Enoch. Cain was then building a city, and he named it after his son Enoch. 18 To Enoch was born Irad, and Irad was the father of Mehujael, and Mehujael was the father of Methushael, and Methushael was the father of Lamech.
-> 19 Lamech married two women, one named Adah and the other Zillah. 20 Adah gave birth to Jabal; he was the father of those who live in tents and raise livestock. 21 His brother’s name was Jubal; he was the father of all who play stringed instruments and pipes. 22 Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of[a] bronze and iron. Tubal-Cain’s sister was Naamah.
+> 19 Lamech married two women, one named Adah and the other Zillah. 20 Adah gave birth to Jabal; he was the father of those who live in tents and raise livestock. 21 His brother’s name was Jubal; he was the father of all who play stringed instruments and pipes. 22 Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of bronze and iron. Tubal-Cain’s sister was Naamah.
 > 23 Lamech said to his wives,
 > “Adah and Zillah, listen to me;
 >     wives of Lamech, hear my words.
@@ -15,8 +15,8 @@ focus-verse: "“If you do what is right, will you not be accepted? But if you d
 >     a young man for injuring me.
 > 24 If Cain is avenged seven times,
 >     then Lamech seventy-seven times.”
-> 25 Adam made love to his wife again, and she gave birth to a son and named him Seth,[b] saying, “God has granted me another child in place of Abel, since Cain killed him.” 26 Seth also had a son, and he named him Enosh.
-> At that time people began to call on[c] the name of the Lord.
+> 25 Adam made love to his wife again, and she gave birth to a son and named him Seth, saying, “God has granted me another child in place of Abel, since Cain killed him.” 26 Seth also had a son, and he named him Enosh.
+> At that time people began to call on the name of the Lord.
 
 In Cain's family, God wasn't in their lives, or at least there were no mentioned about God at all. But God still does allow them to live lives and possibly excel in raising livestock, in music, and in handiwork. 
 
