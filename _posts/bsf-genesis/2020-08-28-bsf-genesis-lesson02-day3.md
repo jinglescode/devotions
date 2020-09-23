@@ -9,6 +9,7 @@ focus-verse: "Then God said, ‘Let us make mankind in our image, in our likenes
 > Thus the heavens and the earth were completed in all their vast array.
 > 2 By the seventh day God had finished the work he had been doing; so on the seventh day he rested from all his work. 3 Then God blessed the seventh day and made it holy, because on it he rested from all the work of creating that he had done. – Genesis 2:1-3
 
+# Summary of Genesis 2:1-3
 
 God had created heaven and earth, numerous different types of creatures on air, land, and sea. After the end of the first six days, God ceased from all works of creation. God is pleased with the creations and enjoys his creation, took satisfaction in the work. God rest to appreciate his work, we too are to rest in God's presence and appreciate what God has done (creation, salvation, etc.). 
 

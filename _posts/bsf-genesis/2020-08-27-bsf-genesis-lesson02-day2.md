@@ -8,6 +8,8 @@ focus-verse: "Then God said, ‘Let us make mankind in our image, in our likenes
 
 > Then God said, ‘Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. – Genesis 1:26
 
+# Summary of Genesis 1:26-31
+
 All of creation up to this point has been an introduction to prepare for day six, the creation of the human race. This was the central object of God's creative purpose from the beginning; creating humans is still at the center of God's purpose for the entire material universe.
 
 # Questions

@@ -9,6 +9,8 @@ focus-verse: "“If you do what is right, will you not be accepted? But if you d
 > Cain said to the Lord, “My punishment is more than I can bear. 14 Today you are driving me from the land, and I will be hidden from your presence; I will be a restless wanderer on the earth, and whoever finds me will kill me.”
 > 15 But the Lord said to him, “Not so; anyone who kills Cain will suffer vengeance seven times over.” Then the Lord put a mark on Cain so that no one who found him would kill him. 16 So Cain went out from the Lord’s presence and lived in the land of Nod, east of Eden.
 
+# Summary of Genesis 4:13-16
+
 Cain was driven out of God's presence, and he feels that the punishment is too much, and he worried that others would kill him. We can see that Cain still thinks about himself and does not ask for forgiveness. Nevertheless, we see God's mercy, giving Cain a mark that protected him so that no one would kill him. I think if Cain were to confess, repent, and turn back to God right now, God might accept him. God gave us multiple opportunities to confess and repent; we can turn back to God.
 
 # Questions

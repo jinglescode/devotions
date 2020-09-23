@@ -6,6 +6,8 @@ image: assets/images/tulips-2546_640.jpg
 focus-verse: "Then God said, ‘Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. – Genesis 1:26"
 ---
 
+# Summary of Genesis 2:4-25
+
 Humans are created by God, made in the image of God, and God breathed the breath of life into man. Interestingly God also specially made a garden for Adam to work in, it was a good place with all kinds of trees, rivers, and resources. There were also 2 trees, the tree of life and the tree of the knowledge of good and evil. The presence of these trees is the presence of choice for Adam to decide. A choice to obey God's command (not to eat), or to rebel/disobey (to eat).
 
 God never intended for man to be alone, but of all the creatures on earth, none is a suitable helper in all aspects of life. God used Adam’s own body to create Eve to illustrate oneness. That woman is essentially made of the same substance as a man. 

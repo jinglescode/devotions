@@ -6,6 +6,8 @@ image: assets/images/retro-1483781_640.jpg
 focus-verse: "“God said to Noah, ‘I am going to put an end to all people, for the earth is filled with violence because of them. I am surely going to destroy both them and the earth.’ ” – Genesis 6:13"
 ---
 
+# Summary of Genesis 5
+
 Chapter 5 describes Adam's family line from Adam to Seth, and to Noah. Who know that God was present in this family line because in Genesis 4:26, because when Seth had a son, Enosh, people began to call on the name of the Lord. For Enoch, we see that he was specifically mentioned that he walked faithfully with God, and God took him away. And when Lamech had Noah, he mentioned about God's comfort. 
 
 # Questions 

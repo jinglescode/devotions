@@ -8,6 +8,8 @@ focus-verse: "In the beginning God created the heavens and the earth. – Genesi
 
 > In the beginning God created the heavens and the earth. 2 Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters. – Genesis 1:1-2
 
+# Summary of Genesis 1:1-2
+
 These two verses seem straight forward and self-explanatory, but it has spark so many philosophy, theology and science questions. Many argued about and trying hard to explain what the beginning is literary. Instead, our focus should be the philosophical importance of knowing God as the creator, that `God created the heavens and the earth`. We know God exists and was there right before the Earth was created.
 
 # Questions

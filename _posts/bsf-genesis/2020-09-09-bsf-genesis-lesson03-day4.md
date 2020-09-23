@@ -40,6 +40,8 @@ focus-verse: "So the LORD God said to the serpent, ‘Because you have done this
 > for dust you are
 >     and to dust you will return.”
 
+# Summary of Genesis 3:14-19
+
 In the beginning, the serpent didn't. have to crawl on its belly and didn’t have to eat dust every day. Sin changes the way we walk, rather than walking uprightly, we crawl around. Sin changes the way we move through life.
 
 Verse 15 is a prophetic verse that speaks of Jesus' victory, that Jesus defeated Satan.

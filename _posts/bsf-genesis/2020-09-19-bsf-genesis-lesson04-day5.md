@@ -18,6 +18,8 @@ focus-verse: "“If you do what is right, will you not be accepted? But if you d
 > 25 Adam made love to his wife again, and she gave birth to a son and named him Seth, saying, “God has granted me another child in place of Abel, since Cain killed him.” 26 Seth also had a son, and he named him Enosh.
 > At that time people began to call on the name of the Lord.
 
+# Summary of Genesis 4:17-26
+
 In Cain's family, God wasn't in their lives, or at least there were no mentioned about God at all. But God still does allow them to live lives and possibly excel in raising livestock, in music, and in handiwork. 
 
 We see that Lamech openly declares his killing of someone as if it was a trophy or an accomplishment. Interestingly, he even declared the same words that God gave to Cain, and outperformed in by the `avenged seventy-seven times`.

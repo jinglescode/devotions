@@ -10,6 +10,8 @@ focus-verse: "“If you do what is right, will you not be accepted? But if you d
 > Now Abel kept flocks, and Cain worked the soil. 3 In the course of time Cain brought some of the fruits of the soil as an offering to the Lord. 4 And Abel also brought an offering—fat portions from some of the firstborn of his flock. The Lord looked with favor on Abel and his offering, 5 but on Cain and his offering he did not look with favor. So Cain was very angry, and his face was downcast.
 > 6 Then the Lord said to Cain, “Why are you angry? Why is your face downcast? 7 If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.”
 
+# Summary of Genesis 4:1-7
+
 Cain and Abel's offerings were different; Abel brought the fat portions from some of the firstborn of his flock, and Cain brought some of the fruits of the soil. God looks at the attitude of the person. Abel offered the best (fat portions) and the first (firstborn of his flock), this shows his faith and dependence on God's providence, and Cain did not.
 
 > By faith Abel brought God a better offering than Cain did. By faith he was commended as righteous, when God spoke well of his offerings. And by faith Abel still speaks, even though he is dead. - Hebrews 11:4

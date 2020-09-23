@@ -11,6 +11,8 @@ focus-verse: "“If you do what is right, will you not be accepted? But if you d
 > “I don’t know,” he replied. “Am I my brother’s keeper?”
 > 10 The Lord said, “What have you done? Listen! Your brother’s blood cries out to me from the ground. 11 Now you are under a curse and driven from the ground, which opened its mouth to receive your brother’s blood from your hand. 12 When you work the ground, it will no longer yield its crops for you. You will be a restless wanderer on the earth.”
 
+# Summary of Genesis 4:8-12
+
 Cain murders his brother, Abel, lured him into the field, and killed him. God would surely have known when that happened, but similar to Adam and Eve's case, God approached and asked Cain. This is Cain's opportunity to confess his sin, but he didn't. He was cursed that no crops will yield and became a restless wanderer.
 
 # Questions

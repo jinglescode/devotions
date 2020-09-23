@@ -10,6 +10,8 @@ focus-verse: "So the LORD God said to the serpent, ‘Because you have done this
 > 2 The woman said to the serpent, “We may eat fruit from the trees in the garden, 3 but God did say, ‘You must not eat fruit from the tree that is in the middle of the garden, and you must not touch it, or you will die.’”
 > 4 “You will not certainly die,” the serpent said to the woman. 5 “For God knows that when you eat from it your eyes will be opened, and you will be like God, knowing good and evil.” – Genesis 3:1-5
 
+# Summary of Genesis 3:1-5
+
 Satan, appearing as a serpent, is crafty; humans alone can't outsmart Satan. Satan draws them to sin and tries to make Eve confused about what God said and doubt what God said. Satan starts by asking questions that seemed innocent.
 
 Maybe Adam did not do a good job communicating God's command, so what Eve said wasn't 100% accurate (added, `and you must not touch it`). Satan tried to lie to Eve about God's goodness by saying that God kept knowledge from her.

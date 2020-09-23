@@ -9,6 +9,8 @@ focus-verse: "So the LORD God said to the serpent, ‘Because you have done this
 > Adam named his wife Eve, because she would become the mother of all the living.
 > 21 The Lord God made garments of skin for Adam and his wife and clothed them. 22 And the Lord God said, “The man has now become like one of us, knowing good and evil. He must not be allowed to reach out his hand and take also from the tree of life and eat, and live forever.” 23 So the Lord God banished him from the Garden of Eden to work the ground from which he had been taken. 24 After he drove the man out, he placed on the east side of the Garden of Eden cherubim and a flaming sword flashing back and forth to guard the way to the tree of life.
 
+# Summary of Genesis 3:20-24
+
 Now the woman was given a name, Eve, the mother of all living; because we can link this to verse 15 where the offspring of hers will crush the satan. Before she was called Eve, she was "woman", because, in chapter 2, Adam called her "woman".
 
 God made garments of skins for them; this is significant in three ways. First, this is the first redemptive step done by God, which we can link to how Christ's righteousness clothes us. Second, a life was sacrificed to make these clothes. Also, we can link it to Christ's sacrifice. And third, God dressed them, a mark of acceptance similar to how the father clothed the prodigal son with a new robe when he returned home.

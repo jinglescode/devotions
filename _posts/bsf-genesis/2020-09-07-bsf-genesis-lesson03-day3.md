@@ -14,6 +14,8 @@ focus-verse: "So the LORD God said to the serpent, ‘Because you have done this
 > 13 Then the Lord God said to the woman, “What is this you have done?”
 > The woman said, “The serpent deceived me, and I ate.” – Genesis 3:6-13
 
+# Summary of Genesis 3:6-13
+
 Satan has encouraged Eve to doubt the words of God and his goodness, and tempted her to place herself above God. Furthermore, this fruit could satisfy her for food, the tree was attractive, and it could make her wise. Which lines up closely to things that can tempt us today, as 1 John 2:16 puts it:
 
 > For everything in the world—the lust of the flesh, the lust of the eyes, and the pride of life—comes not from the Father but from the world.

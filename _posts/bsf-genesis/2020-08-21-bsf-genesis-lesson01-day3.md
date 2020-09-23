@@ -11,13 +11,14 @@ focus-verse: "In the beginning God created the heavens and the earth. – Genesi
 > 9 And God said, “Let the water under the sky be gathered to one place, and let dry ground appear.” And it was so. 10 God called the dry ground “land,” and the gathered waters he called “seas.” And God saw that it was good.
 > 11 Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, according to their various kinds.” And it was so. 12 The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good. 13 And there was evening, and there was morning—the third day. – Genesis 1:3-13
 
+# Summary of Genesis 1:3-13
 On the first day, God created light, by speaking the words `Let there be light`. Interestingly, light existed before the sun, moon and stars were created.
 
 On the second day, God made an atmospheric division on Earth, separating water and sky (water vapour). With that, we get water-rain cycles, which enables rain and weather. This allows vegetation and life.
 
 On the third day, God divided land from seas and created plants and vegetation. Full-grown plants with bearing seeds were created, not seeds, and God saw that it was good. Interestingly, plants were also made before the sun.
 
-# Questions
+# Questions 
 
 **What did God create and name on the first through third days?** On the first day, God created light. On the second day, God divided the water and the sky. On the third day, God divided land from seas and created plants and vegetation.
 
