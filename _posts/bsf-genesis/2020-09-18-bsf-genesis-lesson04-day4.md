@@ -1,6 +1,6 @@
 ---
 title: "Cain went out from the Lord’s presence"
-kicker: "BSF Genesis Lesson 4 Day 4"
+description: "BSF Genesis Lesson 4 Day 4"
 categories: [genesis]
 image: assets/images/abel-2061824_640.png
 focus-verse: "“If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.” – Genesis 4:7"

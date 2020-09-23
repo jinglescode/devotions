@@ -1,6 +1,6 @@
 ---
 title: "God called the lights and animals into existence"
-kicker: "BSF Genesis Lesson 1 Day 4"
+description: "BSF Genesis Lesson 1 Day 4"
 categories: [genesis]
 image: assets/images/sunset-4926468_640.png
 focus-verse: "In the beginning God created the heavens and the earth. – Genesis 1:1"

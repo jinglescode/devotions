@@ -1,6 +1,6 @@
 ---
 title: "God created the heavens and the earth"
-kicker: "BSF Genesis Lesson 1 Day 2"
+description: "BSF Genesis Lesson 1 Day 2"
 categories: [genesis]
 image: assets/images/space-3516520_640.jpg
 focus-verse: "In the beginning God created the heavens and the earth. – Genesis 1:1"

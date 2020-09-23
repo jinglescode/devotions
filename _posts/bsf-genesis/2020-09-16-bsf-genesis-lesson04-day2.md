@@ -1,6 +1,6 @@
 ---
 title: "The Lord responded to Cain and Abel and their offerings"
-kicker: "BSF Genesis Lesson 4 Day 2"
+description: "BSF Genesis Lesson 4 Day 2"
 categories: [genesis]
 image: assets/images/abel-2061826_640.png
 focus-verse: "“If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.” – Genesis 4:7"

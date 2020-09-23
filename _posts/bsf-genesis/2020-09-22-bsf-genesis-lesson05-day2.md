@@ -1,6 +1,6 @@
 ---
 title: "Adam’s descendants from Seth through Noah are summarized"
-kicker: "BSF Genesis Lesson 5 Day 2"
+description: "BSF Genesis Lesson 5 Day 2"
 categories: [genesis]
 image: assets/images/retro-1483781_640.jpg
 focus-verse: "“God said to Noah, ‘I am going to put an end to all people, for the earth is filled with violence because of them. I am surely going to destroy both them and the earth.’ ” – Genesis 6:13"

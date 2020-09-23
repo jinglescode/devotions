@@ -1,6 +1,6 @@
 ---
 title: "The Lord God banished Adam and Eve from the Garden of Eden"
-kicker: "BSF Genesis Lesson 3 Day 5"
+description: "BSF Genesis Lesson 3 Day 5"
 categories: [genesis]
 image: assets/images/background-1587514_640.jpg
 focus-verse: "So the LORD God said to the serpent, ‘Because you have done this ... I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.’ – Genesis 3:14-15"

@@ -1,6 +1,6 @@
 ---
 title: "All creation is called to praise God"
-kicker: "BSF Genesis Lesson 1 Day 5"
+description: "BSF Genesis Lesson 1 Day 5"
 categories: [genesis]
 image: assets/images/sheep-1148999_640.jpg
 focus-verse: "In the beginning God created the heavens and the earth. – Genesis 1:1"

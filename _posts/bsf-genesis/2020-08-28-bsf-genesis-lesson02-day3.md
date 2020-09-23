@@ -1,6 +1,6 @@
 ---
 title: "God rested from His “very good” work of creation on the seventh day"
-kicker: "BSF Genesis Lesson 2 Day 3"
+description: "BSF Genesis Lesson 2 Day 3"
 categories: [genesis]
 image: assets/images/sunset-3325080_640.jpg
 focus-verse: "Then God said, ‘Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. – Genesis 1:26"

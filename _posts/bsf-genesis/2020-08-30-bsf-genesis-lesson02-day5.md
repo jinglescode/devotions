@@ -1,6 +1,6 @@
 ---
 title: "Humans are created to glorify God and to work together for good"
-kicker: "BSF Genesis Lesson 2 Day 5"
+description: "BSF Genesis Lesson 2 Day 5"
 categories: [genesis]
 image: assets/images/team-spirit-2447163_640.jpg
 focus-verse: "Then God said, ‘Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. – Genesis 1:26"

@@ -1,6 +1,6 @@
 ---
 title: "God created mankind in His image on the sixth day"
-kicker: "BSF Genesis Lesson 2 Day 2"
+description: "BSF Genesis Lesson 2 Day 2"
 categories: [genesis]
 image: assets/images/creation-47473_640.png
 focus-verse: "Then God said, ‘Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. – Genesis 1:26"

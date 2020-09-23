@@ -1,6 +1,6 @@
 ---
 title: "God Creates All Things for His Glory"
-kicker: "BSF Genesis Lesson 2 Day 1"
+description: "BSF Genesis Lesson 2 Day 1"
 categories: [genesis]
 image: assets/images/landscape-1802337_640.jpg
 focus-verse: "In the beginning God created the heavens and the earth. – Genesis 1:1"

@@ -1,6 +1,6 @@
 ---
 title: "God personally made Adam and Eve for life in Eden"
-kicker: "BSF Genesis Lesson 2 Day 4"
+description: "BSF Genesis Lesson 2 Day 4"
 categories: [genesis]
 image: assets/images/tulips-2546_640.jpg
 focus-verse: "Then God said, ‘Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. – Genesis 1:26"

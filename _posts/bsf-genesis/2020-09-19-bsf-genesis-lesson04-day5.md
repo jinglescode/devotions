@@ -1,6 +1,6 @@
 ---
 title: "Cain’s descendants increased, and Seth was born"
-kicker: "BSF Genesis Lesson 4 Day 5"
+description: "BSF Genesis Lesson 4 Day 5"
 categories: [genesis]
 image: assets/images/cartoon-1294675_640.png
 focus-verse: "“If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.” – Genesis 4:7"

@@ -1,6 +1,6 @@
 ---
 title: "The Fall of Mankind"
-kicker: "BSF Genesis Lesson 4 Day 1"
+description: "BSF Genesis Lesson 4 Day 1"
 categories: [genesis]
 image: assets/images/light-3151723_640.jpg
 focus-verse: "So the LORD God said to the serpent, ‘Because you have done this ... I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.’ – Genesis 3:14-15"

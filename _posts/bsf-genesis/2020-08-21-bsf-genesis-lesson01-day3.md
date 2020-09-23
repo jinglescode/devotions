@@ -1,6 +1,6 @@
 ---
 title: "God began creating earth’s attributes"
-kicker: "BSF Genesis Lesson 1 Day 3"
+description: "BSF Genesis Lesson 1 Day 3"
 categories: [genesis]
 image: assets/images/earth-1990298_640.jpg
 focus-verse: "In the beginning God created the heavens and the earth. – Genesis 1:1"

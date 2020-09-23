@@ -1,6 +1,6 @@
 ---
 title: "Cain killed Abel and was cursed by the Lord"
-kicker: "BSF Genesis Lesson 4 Day 3"
+description: "BSF Genesis Lesson 4 Day 3"
 categories: [genesis]
 image: assets/images/abel-2061823_640.png
 focus-verse: "“If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.” – Genesis 4:7"

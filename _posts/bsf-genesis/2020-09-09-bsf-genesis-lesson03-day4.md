@@ -1,6 +1,6 @@
 ---
 title: "God explained the consequences for sin"
-kicker: "BSF Genesis Lesson 3 Day 4"
+description: "BSF Genesis Lesson 3 Day 4"
 categories: [genesis]
 image: assets/images/closeup-2091831_640.jpg
 focus-verse: "So the LORD God said to the serpent, ‘Because you have done this ... I will put enmity between you and the woman, and between your offspring and hers; he will crush your head, and you will strike his heel.’ – Genesis 3:14-15"

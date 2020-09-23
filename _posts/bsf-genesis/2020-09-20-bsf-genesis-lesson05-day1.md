@@ -1,6 +1,6 @@
 ---
 title: "Cain Spreads Sin Into the World"
-kicker: "BSF Genesis Lesson 5 Day 1"
+description: "BSF Genesis Lesson 5 Day 1"
 categories: [genesis]
 image: assets/images/apocalypse-2459465_640.jpg
 focus-verse: "“If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must rule over it.” – Genesis 4:7"

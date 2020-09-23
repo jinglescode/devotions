@@ -1,6 +1,6 @@
 ---
 title: "God Creates Humanity in His Image"
-kicker: "BSF Genesis Lesson 3 Day 1"
+description: "BSF Genesis Lesson 3 Day 1"
 categories: [genesis]
 image: assets/images/person-1207641_640.jpg
 focus-verse: "Then God said, ‘Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground. – Genesis 1:26"
