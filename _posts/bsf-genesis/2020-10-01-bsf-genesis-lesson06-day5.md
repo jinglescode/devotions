@@ -6,7 +6,7 @@ image: assets/images/rainbow-1467988_640.jpg
 focus-verse: "“I establish my covenant with you: Never again will all life be destroyed by the waters of a flood; never again will there be a flood to destroy the earth.” – Genesis 9:11"
 ---
 
-# Summary of Genesis Genesis 9:8-17
+# Summary of Genesis 9:8-17
 
 God made a new covenant with Noah, humanity, and all living creatures, that never again will all life be destroyed by the waters of a flood. God creates something visual, a rainbow in the clouds as the sign of the covenant.  
 

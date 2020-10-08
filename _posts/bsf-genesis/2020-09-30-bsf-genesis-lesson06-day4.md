@@ -6,7 +6,7 @@ image: assets/images/siblings-862967_640.jpg
 focus-verse: "“I establish my covenant with you: Never again will all life be destroyed by the waters of a flood; never again will there be a flood to destroy the earth.” – Genesis 9:11"
 ---
 
-# Summary of Genesis Genesis 9:1-7
+# Summary of Genesis 9:1-7
 
 In this segment, God gave a few instructions. 
 
