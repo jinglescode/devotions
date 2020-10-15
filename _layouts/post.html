@@ -17,9 +17,7 @@ layout: default
 					{% if page.description %}<h6>{{ page.description }}</h6>{% endif %}
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<div class="d-flex align-items-center">
-						
-                            <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
-						</small>
+            <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 					</div>
 				</div>
                 {% if page.image %}
