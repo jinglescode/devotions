@@ -8,8 +8,7 @@ focus-verse: "“I establish my covenant with you: Never again will all life be 
 
 # God Remembered Noah – Genesis 8
 
-This event was passed down through the generations to Moses when he recorded what happened in Genesis. It was first recorded for the Israelites to understand that God judges sin but promises deliverance and new hope for new life through faith in Him. Similar to Noah, they were protected from judgment through faithful obedience to God in
-the Passover.
+This event was passed down through the generations to Moses when he recorded what happened in Genesis. It was first recorded for the Israelites to understand that God judges sin but promises deliverance and new hope for new life through faith in Him. Similar to Noah, they were protected from judgment through faithful obedience to God in the Passover.
 
 God's judgment caused rain for 40 days and 40 nights and remained flooded. For several months, Noah, his family, and all the animals stayed in the ark. God did not tell Noah how long this would take and how long he would stay in the ark, but God promised to keep them safe. God's faithfulness and everlasting care and fulfilled His promise to Noah and made the waters recede. When the last dove did not return, Noah knew the water had dried up sufficiently to inhabit the earth again. Yet, Noah faithfully waited until God told him to come out with his family and all the animals.
 
