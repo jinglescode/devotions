@@ -14,9 +14,9 @@ Chapter 5 describes Adam's family line from Adam to Seth, and to Noah. Who know 
 
 **What do you learn from the repeated phrases about God and mankind?** `became the father of`, `had other sons and daughters` and `lived a total of ... years` were repeated. We know that God is keeping these people, are dwelling among them, and sustaining their next generation.
 
-**What stands out to you about Enoch? (See Hebrews 11:5-6; Jude 1:14-15.)** He was the only one specifically mentioned that he walked faithfully with God, and God took him away. He did not experience death.
+**What stands out to you about Enoch? (See Hebrews 11:5-6; Jude 1:14-15.)** Enoch was the only one specifically mentioned that he walked faithfully with God, and God took him away. He did not experience death.
 
-**What does it mean to walk faithfully with God?** Devoted to God in our time and thoughts. In faith, complete surrender of our life to God. 
+**What does it mean to walk faithfully with God?** Devoted to God in our time and our thoughts. In faith, complete surrender of our life to God. 
 
 **How would you describe your walk with God?** In practice, I'm devoting my time to seek God. But I have to evaluate my heart's condition and motive, whether I am like Abel or Cain.
 
