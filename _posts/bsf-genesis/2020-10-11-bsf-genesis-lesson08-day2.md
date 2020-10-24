@@ -18,4 +18,4 @@ Then, scripture recorded the people surrounding Abram, his father, his brothers,
 
 **Who or what in verses 10-26 prompts your curiosity to know more?** I am curious to know who is Abram's mother.
 
-** Terah's descendants are featured in the rest of Genesis. What facts about Terah's family are similar to your family?** The similarity is some relatives are married with children.
+**Terah's descendants are featured in the rest of Genesis. What facts about Terah's family are similar to your family?** The similarity is some relatives are married with children.
