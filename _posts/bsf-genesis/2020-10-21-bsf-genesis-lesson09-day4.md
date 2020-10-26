@@ -2,7 +2,7 @@
 title: "Abram rescued Lot from captivity"
 description: "BSF Genesis Lesson 9 Day 4"
 categories: [genesis]
-image: assets/images/trechains-19176_640.jpg
+image: assets/images/chains-19176_640
 focus-verse: "“Go, walk through the length and breadth of the land, for I am giving it to you.” – Genesis 13:17"
 ---
 
