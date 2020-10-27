@@ -18,9 +18,7 @@ On the other hand, the king of Sodom requested to take the people while Abram ca
 
 **What differences stand out about Abram's dealings with the king of Salem and the king of Sodom?** Abram gave the king of Salem, who praised God, a tenth of everything he had. In contrast, Abram did not want to have any part of the king of Sodom.
 
-**What are ways the Bible later says Melchizedek prefigured the person and work of Jesus Christ?** Melchizedek was a king and a priest.
-
-Jesus is the king who will reign on David's throne and over his kingdom (Isaiah 9:6-7) and a faithful high priest in service to God (Hebrews 2:17-18).
+**What are ways the Bible later says Melchizedek prefigured the person and work of Jesus Christ?** Melchizedek was a king and a priest. Jesus is the king who will reign on David's throne and over his kingdom (Isaiah 9:6-7) and a faithful high priest in service to God (Hebrews 2:17-18).
 
 **Which of God's qualities and deeds did Melchizedek publicly proclaim in blessing Abram?** Melchizedek publicly proclaim God as Most High, and God who delivered Abram's enemies.
 
