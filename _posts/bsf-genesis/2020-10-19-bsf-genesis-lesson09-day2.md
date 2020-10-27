@@ -20,4 +20,4 @@ Lot selects based on the land's condition; it is well-watered. But it is near So
 
 **What can believers give up to put others first and to pursue peace?** We can let go of our pride to think that we are right all the time. We are quick to defend ourselves when people point out our mistakes.
 
-**Why is it hard to pursue peace in your relationships? How has God helped you with this?** Pride. It is our default mentality to think we are not wrong. God allow me to learn from difficult situations and trust in him rather than rely on my own wisdom and strength.
+**Why is it hard to pursue peace in your relationships? How has God helped you with this?** Pride. It is our default mentality to think we are not wrong. God allow me to learn from difficult situations and trust in him rather than rely on my own wisdom and strength. We also tends to put our needs higher than others.
