@@ -1,5 +1,5 @@
 ---
-title: "The angel of the Lord affirmed blessings for Hagar and Ishmael."
+title: "The angel of the Lord affirmed blessings for Hagar and Ishmael"
 description: "BSF Genesis Lesson 10 Day 5"
 categories: [genesis]
 image: assets/images/blessing-1261935_640.jpg
