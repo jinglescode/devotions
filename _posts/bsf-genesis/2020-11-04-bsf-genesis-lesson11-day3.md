@@ -8,11 +8,11 @@ focus-verse: "“I will establish my covenant as an everlasting covenant between
 
 # Summary of Genesis 17:9-14; 23-27
 
-God instructed Abraham to be circumcised, including those born in your household and those who are not your offspring. This is an outward sign of the covenant between God and Abraham. This distinguished Abraham's male descendants from other people as these people are set apart for God. Abraham did exactly that.
+God instructed Abraham to be circumcised, including those born in the household and those who are not his offspring. This is an outward sign of the covenant between God and Abraham. This distinguished Abraham's male descendants from other people as these people are set apart for God. Abraham did exactly what he was told.
 
 # Questions
 
-**How did God relate the sign of circumcision to His covenant?** Circumcision is an outward sign of the covenant between God and Abraham, that God is their God.
+**How did God relate the sign of circumcision to His covenant?** Circumcision is an outward sign of the covenant between God and Abraham, that these people are set apart for God, and God Almighty is their God.
 
 **What does Abraham’s response in verses 23-27 suggest about him and his household?** Abraham and his household believe and obey God's command. This obedience shows their faith in God.
 

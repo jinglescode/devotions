@@ -12,7 +12,7 @@ At the end of Genesis 16, after Ishmael was born, Abram was 86 years old. In Gen
 
 # Questions
 
-**What do the details of the Lord's appearance to Abraham and Abraham's response tell about their relationship?** Abraham can hear and recognize God's voice; he does not doubt that the voice is God's speaking to him. He fell facedown, reflected his position before God Almighty; he is humble before God.
+**What do the details of the Lord's appearance to Abraham and Abraham's response tell about their relationship?** Abraham can hear and recognize God's voice; he does not doubt that the voice is God's speaking to him. He fell facedown, this reflects his position before God Almighty; he is humble before God.
 
 **What does it mean to "be blameless" (17:1)?** To obey God's commands and please God in our actions, thoughts, and words.
 
