@@ -1,0 +1,23 @@
+---
+title: "Genesis"
+layout: default
+permalink: "/genesis"
+---
+
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <h1 class="font-weight-bold title h6 text-uppercase mb-4">Genesis</h1>
+      {% assign pages_list = site.categories["genesis"] %}
+      {% for post in pages_list %}
+      {% if post.title != null %}
+        {% if group == null or group == post.group %}
+          {% include main-loop-card.html %}
+        {% endif %}
+      {% endif %}
+      {% endfor %}
+      {% assign pages_list = nil %}
+      {% assign group = nil %}
+    </div>  
+  </div>
+</div>
