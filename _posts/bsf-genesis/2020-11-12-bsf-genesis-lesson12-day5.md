@@ -14,7 +14,7 @@ Lot and his two daughters left Zoar and settled in the mountains. But the daught
 
 **What was Lot's daughters' response to their new circumstances? Why?** They were alone, and there was no man to give them children. They made their father drunk and slept with him.
 
-**What kinds of justification do people make for their choices today?** "God will understand my situation". "It is just this time".
+**What kinds of justification do people make for their choices today?** "God will understand my situation". "It is just this time". We also blame it on our fallen nature, everyone is sinful.
 
 **Which nations descended from Lot? What relationship did they have to God's plan for Israel?** Moabites and Ammonites. Israel men began to indulge in sexual immorality with Moabite women (Numbers 25:1). They married Moabite women (Ruth 1:4). 
 
