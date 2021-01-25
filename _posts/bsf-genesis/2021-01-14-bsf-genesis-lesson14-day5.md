@@ -20,7 +20,7 @@ Abraham is asking the Hittites to sell him land to bury Sarah. The conversation 
 
 > You are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will refuse you his tomb for burying your dead.
 
-There is great respect here, and the Hittites know him, his life, and his God.
+There is great respect here, and the Hittites know him, his life, and his God. In ESV, “Abraham was referred as `a prince of God`. They acknowledge God is on his side and he belongs to God.
 
 **How did this purchase prove Abraham’s faith in God’s promises?** Even though God said that all the land will be given to him and his descendants, he did not take it by force. He did not even take it when it was given to him for free. He paid at full price, and he did it honorably.
 
