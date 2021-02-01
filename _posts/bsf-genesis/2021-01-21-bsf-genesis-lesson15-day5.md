@@ -18,4 +18,4 @@ Isaac saw the camels approaching, and the servant told Isaac all had happened. H
 
 **14. What has it cost you to obey God? How has God cared for you when your obedience seemed costly?** Situation will be alright; even at that moment, it may not look like it will be ok.
 
-**15. How does Isaac's example challenge or encourage you to prayerfully wait on God's way and time?** Isaac can get any wife if he desires, but he waited on God's time and plan to bring Rebekah to him. Isaac trusted God.
+**15. How does Isaac's example challenge or encourage you to prayerfully wait on God's way and time?** Isaac can get any wife if he desires, but he waited on God's time and plan to bring Rebekah to him. Isaac trusted God, and he accepted what God has given.
