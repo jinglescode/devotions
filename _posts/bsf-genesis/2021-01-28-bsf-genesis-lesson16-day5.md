@@ -18,8 +18,8 @@ God provided for Isaac and made him wealthy; Abimelek noticed that God is with I
 
 **13. How did Isaac’s choices in this chapter repeat the pattern of Abraham? (See Genesis 12:10-13 and 20:1-13 with 21:22-34.)** Just like Abraham, Isaac feared for his own life more than for his wife’s honor and safety. He lied and said Rebekah was his sister.
 
-**14. What can you do to help those you love and lead avoid sins that you have committed?** To remember that God is mightier than our current situation and will bring us through. 
+**14. What can you do to help those you love and lead avoid sins that you have committed?** To remember that God is mightier than our current situation and will bring us through. If Abraham have shared his experience, on how God has seen him through even though he made this same mistake before, Isaac might not have made this mistake and learn to trust God instead.
 
-**15. How did Isaac pursue peace with his neighbors, and what do you learn from his example?** Although Isaac is wealthy and powerful, he did not pursue conflict with those who quarreled with him over those wells. 
+**15. How did Isaac pursue peace with his neighbors, and what do you learn from his example?** Although Isaac is wealthy and powerful, he did not pursue conflict with those who quarreled with him over those wells. Also he knows that God will provide, thus he is able to let go. He possibly know that God will provide him another well.
 
 **16. What are some reasons God allows hard and painful circumstances in the lives of His people?** It is for us to realize our faith, allowing us to put our trust in God. 
