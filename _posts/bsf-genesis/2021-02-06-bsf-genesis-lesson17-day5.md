@@ -12,9 +12,7 @@ Rebekah heard that Esau plan to kill Jacob, thus told him to flee.
 
 # Questions
 
-**13. What did Esau have to gain by killing Jacob, and what did he have to lose?** 
-
-He does not have anything to gain; it is pure revenge. By killing Jacob, he sins and incurs God'sGod's wrath. 
+**13. What did Esau have to gain by killing Jacob, and what did he have to lose?** He does not have anything to gain; it is pure revenge. By killing Jacob, he sins and incurs God'sGod's wrath. 
 
 **14. a. How did God discipline Rebekah and Jacob? (Skim Genesis 29-35 and see Hebrews 12:6-11.)** All of them suffered because they insisted on working against God'sGod's word and wisdom.
 
